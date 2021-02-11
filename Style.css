@@ -1,0 +1,23 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 16px;
+}
+  
+.container{
+  display: flex;
+  justify-content: center;
+}
+.some_text li{
+  list-style: none;
+}
+
+.form {
+  display: flex;
+  justify-content:center;
+} 
+.btn {
+  background-color: blue;
+  color: white;
+  border: none;
+ 
+}
